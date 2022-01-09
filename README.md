@@ -1,6 +1,6 @@
 ### Hi there 👋 ![]( https://visitor-badge.glitch.me/badge?page_id=yxinwang.homepage)
 
-- 🔭 I'm Yongxin Wang (王永欣). <!--I am currently an associate professor with the School of Computer Science and Techonology, Shandong Jianzhu University, Jinan, China.-->I received the Ph.D. degree from School of Computer Science and Technology, Shandong University. My supervisor is [Prof. Xin-Shun Xu](http://mima.sdu.edu.cn/Members/xinshunxu/index.htm).
+- 🔭 I'm Yongxin Wang (王永欣). I am currently an associate professor with the School of Computer Science and Techonology, Shandong Jianzhu University, Jinan, China. I received the Ph.D. degree from School of Computer Science and Technology, Shandong University. My supervisor is [Prof. Xin-Shun Xu](http://mima.sdu.edu.cn/Members/xinshunxu/index.htm).
 - 🌱 I’m currently focusing on: Machine Learning, Multimedia Analysis, Computer Vision, Information Retrieval.
 - 📫 How to reach me: yxinwang@hotmail.com for email.
 
